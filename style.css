@@ -21,7 +21,7 @@ html {
 }
 
 header {
-  background-image: url(./Assets/hero-bg.jpg);
+  background-image: url(./Assets/hero-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -116,7 +116,7 @@ nav p {
 }
 
 .location {
-  background-image: url(Assets/Loc-bg.jpg);
+  background-image: url(Assets/Loc-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -130,16 +130,16 @@ nav p {
   gap: 40px;
 }
 .card-1 {
-  background-image: url(./Assets/ovs.jpg);
+  background-image: url(./Assets/ovs.webp);
 }
 .card-2 {
-  background-image: url(./Assets/amarbaysgalan.jpg);
+  background-image: url(./Assets/amarbaysgalan.webp);
 }
 .card-3 {
-  background-image: url(./Assets/nuur.jpg);
+  background-image: url(./Assets/nuur.webp);
 }
 .card-4 {
-  background-image: url(./Assets/togoo.jpg);
+  background-image: url(./Assets/togoo.webp);
 }
 .card {
   width: 275px;
@@ -175,7 +175,7 @@ nav p {
 }
 
 .destination {
-  background-image: url(Assets/roadmap-bg.jpg);
+  background-image: url(Assets/roadmap-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -334,7 +334,7 @@ nav p {
   background: rgba(151, 204, 224, 0.8);
 }
 .pricing {
-  background-image: url(Assets/pricing-bg.jpg);
+  background-image: url(Assets/pricing-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
